@@ -7,6 +7,10 @@ Library Prayer Times untuk menghitung waktu sholat yang digunakan [https://githu
 
 Library Rotary yang digunakan [https://github.com/buxtronix/arduino/tree/master/libraries/Rotary](https://github.com/buxtronix/arduino/tree/master/libraries/Rotary)
 
+Library RTC yang digunakan [https://github.com/adafruit/RTClib](https://github.com/adafruit/RTClib)
+
+Progam untuk RTCDS3231
+
 ## Gambar Rangkaian
 ![gambar rangkaian error](/image_resources/gambar_rangkaian.png)
 
