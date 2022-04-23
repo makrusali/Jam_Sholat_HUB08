@@ -1,3 +1,8 @@
+/*
+ * created at 23-04-2022
+ * masih terdapat bug pada setting_koordinat()
+ */
+
 #include <avr/pgmspace.h>
 #include <SPI.h>
 #include "HUB08SPI.h"
